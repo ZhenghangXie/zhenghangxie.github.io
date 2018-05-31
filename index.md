@@ -2,7 +2,7 @@
 
 ### First
 Firstly, I really appreciate your bother to come here and visit my personal website, I hope the content here can help you to draw a more comprehensive picture about me.
-But I must apologize for my dilatory effort to building this website, more content is under construction.
+But I must apologize for my dilatory effort to building this website, almost all the contents are under construction.
 
 ### Contact
 For further communication, you can go direct to me by:
