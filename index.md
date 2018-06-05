@@ -1,3 +1,8 @@
+---
+layout: default
+title: HomePage
+---
+
 ## Welcome to My HomePage
 
 ### Words
@@ -6,8 +11,8 @@ But I have to apologize for my dilatory effort in building this website, almost 
 
 ### Contact
 For further communication, you can go direct to me by:
-#### +86 13821130639 - Mobile phone
-#### soW0011 - WeChat
-#### sow0011@outlook.com - Email
-#### 435302258 - QQ
+- +86 13821130639 (Mobile Phone)
+- soW0011 (WeChat)
+- sow0011@outlook.com (Email)
+- 435302258 (QQ)
 
